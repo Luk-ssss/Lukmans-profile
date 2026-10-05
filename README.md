@@ -1,2 +1,2 @@
-# Lukmans-projects
+# Lukmans-profile
 these are my projects 
